@@ -21,6 +21,8 @@ function CreatePost() {
       createdAt : new Date() 
     });
 
+    
+
   }
     return (
       <div className="create-post">
